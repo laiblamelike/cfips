@@ -7,6 +7,12 @@ pttime.org:443#联通 pttime.org
 www.npmjs.com:443#联通 www.npmjs.com
 www.speedtest.net:443#联通 www.speedtest.net
 console.vultr.com:443#联通 console.vultr.com
+stores.staples.com:443#移动 stores.staples.com
+login.rockwellautomation.com:443#移动 login.rockwellautomation.com
+mogas.com mogas.com:443#移动 mogas.com mogas.com
+www.scayle.com:443#移动 www.scayle.com
+www.spacex.com:443#移动 www.spacex.com
+smapi.xystem138.com:443#移动 smapi.xystem138.com
 8.212.8.26:443#HK 8.212.8.26
 89.45.45.144:443#TR 89.45.45.144
 idc.urkeji.com:443#HK 移动优选[idc.urkeji.com 46ms]
