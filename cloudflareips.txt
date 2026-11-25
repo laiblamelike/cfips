@@ -1,2 +1,13 @@
+img.84546805.xyz:443#img.84546805.xyz
+224322.xyz:443#224322.xyz
+srg.cf.777791.xyz:443#srg.cf.777791.xyz
+cf.witcorn.eu.org:443#cf.witcorn.eu.org
+cm.cf.090902.xyz:443#cm.cf.090902.xyz
+cf.xreak.top:443#cf.xreak.top
+pttime.org:443#pttime.org
+www.npmjs.com:443#www.npmjs.com
+www.speedtest.net:443#www.speedtest.net
+console.vultr.com:443#console.vultr.com
+spring.io:443#spring.io
 8.212.8.26:443#HK 8.212.8.26
 89.45.45.144:443#TR 89.45.45.144
