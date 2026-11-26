@@ -13,15 +13,4 @@ mogas.com mogas.com:443#移动 mogas.com mogas.com
 www.scayle.com:443#移动 www.scayle.com
 www.spacex.com:443#移动 www.spacex.com
 smapi.xystem138.com:443#移动 smapi.xystem138.com
-8.212.8.26:443#HK 8.212.8.26
 89.45.45.144:443#TR 89.45.45.144
-idc.urkeji.com:443#HK 移动优选[idc.urkeji.com 46ms]
-saas.sin.fan:443#HK 移动优选[saas.sin.fan 57ms]
-www.mlkj888.com:443#HK 移动优选[www.mlkj888.com 57ms]
-cdn.667891.xyz:443#HK 移动优选[cdn.667891.xyz 62ms]
-eii.at:443#HK 移动优选[eii.at 63ms]
-api.gzcrtw.com:443#HK 移动优选[api.gzcrtw.com 71ms]
-cdn.204910.best:443#HK 移动优选[cdn.204910.best 99ms]
-cf.vvhan.com:443#HK 移动优选[cf.vvhan.com 103ms]
-auto.dolby.dpdns.org:443#HK 移动优选[auto.dolby.dpdns.org 110ms]
-www.visa.com.hk:443#GB 移动优选[www.visa.com.hk 170ms]
