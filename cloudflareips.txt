@@ -15,3 +15,11 @@ www.scayle.com:443#移动 www.scayle.com
 www.spacex.com:443#移动 www.spacex.com
 smapi.xystem138.com:443#移动 smapi.xystem138.com
 89.45.45.144:443#TR 89.45.45.144
+gitlab.com#联通 gitlab.com
+nodejs.org#联通 nodejs.org
+crunchyroll.com#联通 crunchyroll.com
+app.unpkg.com#联通 app.unpkg.com
+kali.download#联通 kali.download
+registry.npmjs.org#联通 registry.npmjs.org
+testingcf.jsdelivr.net#联通 testingcf.jsdelivr.net
+tronscan.org#联通 tronscan.org
